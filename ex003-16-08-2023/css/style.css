@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: powderblue;
+}
+
+#titulo {
+    color: blue;
+    font-size: 50px;
+    background-color: aquamarine;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.paragrafo {
+    background-color: brown;
+}
+
+.paragrafo3 {
+    font-size: 40px;
+}
+
+.city {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+    color: #fff;
+    border: 5px solid #000;
+    margin: 20px;
+    padding: 20px;
+}
+
+.padrao {
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 30px;
+}
+
+
+.padding1 {
+    border: 3px solid #000;
+    padding: 20px;
+}
+
+.padding2 {
+    border: 3px solid #000;
+    padding: 20px;
+    margin-top: 100px;
+}

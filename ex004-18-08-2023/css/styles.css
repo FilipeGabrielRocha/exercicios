@@ -1,0 +1,9 @@
+.pokebola-direita {
+    float: right;
+    height: 50px;
+}
+
+.pokebola-esquerda {
+    float: left;
+    height: 50px;
+}
